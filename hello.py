@@ -1,2 +1,2 @@
 print ("Hello Python World")
-print ("hello again")გიტ 
+print ("hello again")
